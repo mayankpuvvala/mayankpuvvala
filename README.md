@@ -4,7 +4,7 @@
 
 # Mayank Puvvala
 
-👋 Hello, I'm Mayank Puvvala, a passionate full-stack developer and MERN enthusiast. I love creating web applications that are not just functional but also beautiful.
+👋 Hello, I'm Mayank Puvvala, a passionate full-stack developer and Machine Learning enthusiast. I love creating web applications that are not just functional but also beautiful.
 
 🌐 Full Stack Developer:
 - Proficient in the MERN (MongoDB, Express, React, Node.js) stack.
@@ -14,10 +14,10 @@
 - As part of my 100 Days of Machine Learning journey, I'm exploring the world of artificial intelligence and data science.
 - Sharpening my skills in various machine learning algorithms and deep learning techniques.
 - Excited to build intelligent applications that make a difference.
-- **FaceID**: Today, I developed a real-time face recognition system using deep learning techniques and the Dlib library. Check it out in my projects!
-
+- 
 💼 Work Highlights:
 - **Phone OTP**: Implemented secure phone OTP authentication using Google Firebase.
+- **FaceID**: Developed a real-time face recognition system using deep learning techniques and the Dlib library.
 - **Travels**: Designed and developed travel websites for wanderlust seekers.
 - **Foods**: Created mouth-watering food apps to order your favorite dishes.
 - **Fashions**: Fashion e-commerce websites that redefine your style.
@@ -40,4 +40,3 @@
 
 [![GitHub](https://img.shields.io/github/followers/mayankpuvvala?label=Follow&style=social)](https://github.com/mayankpuvvala)
 
-<!-- Optional: Add more information about your skills, interests, or additional links to your projects. -->
