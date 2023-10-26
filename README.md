@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://mayankpuvvala.github.io">Visit My Homepage</a>
-</p>
-
 # Mayank Puvvala
 
 👋 Hello, I'm Mayank Puvvala, a passionate full-stack developer and Machine Learning enthusiast. I love creating web applications that are not just functional but also beautiful.
