@@ -28,6 +28,11 @@
 - Version Control: Git
 - Frameworks: MERN, Bootstrap
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayankpuvvala&show_icons=true&theme=dark)
+![Codeforces Stats](https://cf.leed.at?id=mayankpuvvala)
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=mayankpuvvala&hide=contributed-to&theme=dark)
+![Tech Stack](https://techstacks.io/api/contrib/github?user=mayankpuvvala)
+
 💬 Let's connect and explore new opportunities together. You can reach me via email at [puvvalamayank@gmail.com](mailto:puvvalamayank@gmail.com).
 
 🔗 Connect with me:
