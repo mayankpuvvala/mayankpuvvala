@@ -1,9 +1,9 @@
 # Mayank Puvvala
 
-👋 Hello, I'm Mayank Puvvala, a passionate full-stack developer and Machine Learning enthusiast. I love creating web applications that are not just functional but also beautiful.
+👋 Hello, I'm Mayank Puvvala, a passionate full-stack developer and Machine Learning enthusiast. 
 
 🌐 Full Stack Developer:
-- Proficient in the MERN (MongoDB, Express, React, Node.js) stack.
+- Proficient in the MongoDB, Express, Node.js.
 - I create web applications that deliver an exceptional user experience from front-end to back-end.
 
 🤖 100 Days of Machine Learning Challenge:
@@ -44,10 +44,6 @@
 ================
 
 ![streak graph](https://streak-stats.demolab.com?user=mayankpuvvala&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3) ![](https://github-stats-alpha.vercel.app/api?username=mayankpuvvala)
-
-![](https://github-readme-stats.vercel.app/api?username=mayankpuvvala&theme=dark&hideborder=false&include_all_commits=true&count_private=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankpuvvala&theme=dark&hideborder=false&include_all_commits=true&count_private=false&layout=compact)
-
 
 📊 CodeForces Stats:
 ================
