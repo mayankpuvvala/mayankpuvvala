@@ -1,32 +1,15 @@
 # Mayank Puvvala
 
-👋 Hello, I'm Mayank Puvvala, a passionate full-stack developer and Machine Learning enthusiast. 
-
-🌐 Full Stack Developer:
-- Proficient in the MongoDB, Express, Node.js.
-- I create web applications that deliver an exceptional user experience from front-end to back-end.
+👋 Hello, I'm Mayank Puvvala, a passionate and Machine Learning & Deep Learning enthusiast. 
 
 🤖 100 Days of Machine Learning Challenge:
 - As part of my 100 Days of Machine Learning journey, I'm exploring the world of artificial intelligence and data science.
 - Sharpening my skills in various machine learning algorithms and deep learning techniques.
 - Excited to build intelligent applications that make a difference.
 - 
-💼 Work Highlights:
-- **Phone OTP**: Implemented secure phone OTP authentication using Google Firebase.
-- **FaceID**: Developed a real-time face recognition system using deep learning techniques and the Dlib library.
-- **Travels**: Designed and developed travel websites for wanderlust seekers.
-- **Foods**: Created mouth-watering food apps to order your favorite dishes.
-- **Fashions**: Fashion e-commerce websites that redefine your style.
 
 📧 Reach me at: [puvvalamayank@gmail.com](mailto:puvvalamayank@gmail.com)
 
-🚀 Here are some of the technologies I work with:
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express
-- Database: MongoDB
-- Cloud Services: Google Firebase
-- Version Control: Git
-- Frameworks: MERN, Bootstrap
 
   
 💻 Tech Stack:
@@ -45,9 +28,6 @@
 
 ![streak graph](https://streak-stats.demolab.com?user=mayankpuvvala&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3) ![](https://github-stats-alpha.vercel.app/api?username=mayankpuvvala)
 
-📊 CodeForces Stats:
-================
-![Codeforces Stats](https://cf.leed.at?id=mayankpuvvala)
 
 
 💬 Let's connect and explore new opportunities together. You can reach me via email at [puvvalamayank@gmail.com](mailto:puvvalamayank@gmail.com).
