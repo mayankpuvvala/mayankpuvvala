@@ -3,7 +3,7 @@
 👋 Hello, I'm Mayank Puvvala, a passionate and Machine Learning & Deep Learning enthusiast. 
 
 🤖 100 Days of Machine Learning Challenge:
-- As part of my 100 Days of Machine Learning journey, I'm exploring the world of artificial intelligence, Machine Learning, Deep Learning, Computer Vision and data science.
+- As part of my 100 Days of Machine Learning journey, I'm exploring the world of Machine Learning, Deep Learning, Computer Vision and data science.
 - Sharpening my skills in various algorithms.
 - Excited to build intelligent applications that would make a difference.
 📧 Reach me at: [puvvalamayank@gmail.com](mailto:puvvalamayank@gmail.com)
